@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# CodeBuddy IDE
+.codebuddy/
+
+# Old structure (already reorganized)
+deploy/
+GPT-配置指南.md
+Gemini-Gems-配置指南.md
+Coze-扣子-配置指南.md
+人生私董会-prompt.md
+李继刚圆桌提示词/
+
+# Editor
+*.swp
+*.swo
+*~
